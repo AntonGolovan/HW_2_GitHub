@@ -6,3 +6,10 @@
 	<pets>2</pets>
 	<salary>1000 UDS</salary>
 </person>
+<favorite>
+	<movies>star wars</movies>
+	<series>nothing</series>
+	<food>meat</food>
+	<season>summer</season>
+	<Visit>Spain</Visit>
+</favorite>
