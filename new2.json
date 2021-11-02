@@ -1,8 +1,12 @@
-{	"name": "Alex",
+[{	"name": "Alex",
 	"surename": "Ivanov",
 	"age": 25
 	"pets": 2,
 	"salary": "1000 UDS"
 }
-{	
-}
+{	"Favorite movies": "star wars",
+	"Favotite series": "nothing",
+	"Favorite food": "meat"
+	"Favorite season": "summer",
+	"Visit": "Spain"	
+}]
