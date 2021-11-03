@@ -2,4 +2,4 @@ Name - Alex
 Surname - Ivanov
 Age - 25
 Pets - 2
-Expected salary - 1000 USD
+Expected salary - 1000USD
